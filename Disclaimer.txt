@@ -1,0 +1,28 @@
+Disclaimer:
+
+The information provided in this case study data analysis project is for educational and illustrative purposes only. The findings, conclusions, and insights presented are based on the analysis of the available data and do not constitute professional advice or guidance.
+
+Data Accuracy:
+While efforts have been made to ensure the accuracy and reliability of the data used in this analysis, no guarantee is provided regarding its completeness or correctness. The data may contain inaccuracies, errors, or omissions, and users are encouraged to verify any information before making decisions based on it.
+
+Limitations:
+This analysis may have limitations due to factors such as data availability, sample size, data quality, and methodology. These limitations should be taken into consideration when interpreting the results and drawing conclusions.
+
+No Endorsement:
+Reference to specific products, services, companies, or organizations in this analysis does not imply endorsement or recommendation by the authors or the entities involved. Any opinions expressed are those of the authors and do not necessarily reflect the views of any organization or institution.
+
+Use at Own Risk:
+Users of this analysis are responsible for their own interpretation of the data and any actions taken based on the findings. The authors and entities involved in this project are not liable for any loss, damage, or inconvenience arising from the use of the information provided.
+
+Updates:
+This case study data analysis project may be updated or revised periodically to reflect new information, changes in circumstances, or further analysis. Users are encouraged to check for updates and review the latest version of the analysis.
+
+Contact:
+For questions, comments, or inquiries regarding this analysis, please contact Author:
+Name: Charisma Augustine
+Email: rhizconnect@gmail.com
+LinkedIn: http://linkedin.com/in/rhizaustin/
+Github: https://github.com/August-96
+
+
+the dataset used for this case study was downloaded from https://www.kaggle.com/datasets/ziaddjoual/local-store-sales-dashboard
